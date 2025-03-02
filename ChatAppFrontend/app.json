@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ChatAppFrontend",
-    "slug": "ChatAppFrontend",
+    "name": "chatAppFrontend",
+    "slug": "chatAppFrontend",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.manojku.chatAppFrontend"
     },
     "web": {
       "bundler": "metro",
